@@ -11,10 +11,3 @@ as
 
 3)Random Search to evaluate best performance .
 
-## OUTPUT
-
-
-![comparision](https://github.com/roshray/Comparision-of-CBOW-SkipGram-Model/blob/master/output.png)
-
-
-![CBCS](https://github.com/roshray/Comparision-of-CBOW-SkipGram-Model/blob/master/cbcs.JPG)
